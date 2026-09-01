@@ -1,0 +1,8 @@
+{
+  "name": "Manik Bajaj Portfolio",
+  "description": "Developer portfolio and interactive showcase for Manik Bajaj",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
