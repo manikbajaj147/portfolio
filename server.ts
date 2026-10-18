@@ -49,10 +49,10 @@ const PORTFOLIO_DATA = {
       desc: "Created an AI-powered chatbot that analyzes user input to detect service type, urgency level, and location, automatically converting conversations into structured booking requests."
     },
     {
-      name: "Result Management System",
-      date: "January 2025",
-      tech: ["Python", "SQLite3"],
-      desc: "Built a user-friendly interface in Python with a SQLite3 backend to efficiently manage student data, including adding, updating, and deleting records."
+      name: "AI-Based Email Forensics & Intelligence Platform",
+      date: "September 2026",
+      tech: ["Go", "Google Gemini API", "HTML", "CSS", "JavaScript", "REST APIs", "SPF/DKIM/DMARC", "Threat Intelligence APIs"],
+      desc: "Integrated Google Gemini API into an AI-powered email forensics system to analyze threats, extract security insights, and generate risk-based reports."
     }
   ],
   certifications: [
@@ -72,14 +72,14 @@ const PORTFOLIO_DATA = {
       institution: "MGN Public School",
       location: "Jalandhar, Punjab",
       degree: "Intermediate (Class XII)",
-      score: "Percentage: 91%",
+      score: "Percentage: 90.8%",
       period: "Apr 2023 – Mar 2025"
     },
     {
       institution: "MGN Public School",
       location: "Jalandhar, Punjab",
       degree: "Matriculation (Class X)",
-      score: "Percentage: 93%",
+      score: "Percentage: 91.2%",
       period: "Apr 2021 – Mar 2023"
     }
   ]
