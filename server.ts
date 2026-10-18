@@ -49,7 +49,7 @@ const PORTFOLIO_DATA = {
       desc: "Created an AI-powered chatbot that analyzes user input to detect service type, urgency level, and location, automatically converting conversations into structured booking requests."
     },
     {
-      name: "AI-Based Email Forensics & Intelligence Platform",
+      name: "AI-Based Email Forensics & Intelligence System",
       date: "September 2026",
       tech: ["Go", "Google Gemini API", "HTML", "CSS", "JavaScript", "REST APIs", "SPF/DKIM/DMARC", "Threat Intelligence APIs"],
       desc: "Integrated Google Gemini API into an AI-powered email forensics system to analyze threats, extract security insights, and generate risk-based reports."
